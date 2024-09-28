@@ -20,7 +20,7 @@ predmety:
 
 Dám tu pár zákládných, aby to nebolo suché...
 
-__PsychUč__: Na margo toho, že výchova dieťaťa začína jeho počatím: "Keď si chcete pospať, začína party v bruchu."
+__PsychUč__: (_Na margo toho, že výchova dieťaťa začína jeho počatím_) "Keď si chcete pospať, začína party v bruchu."
 
 __PsychUč__: bezpohlavné hračky
 
