@@ -2,7 +2,7 @@
 
 ## zimný semester
 
-### Informatika
+### informatika
 rozvrh: [1mINF](https://candle.fmph.uniba.sk/kruzky/1mINF)
 
 predmety:
@@ -10,7 +10,7 @@ predmety:
 - [Diplomový seminár](minf/diplomovy-seminar)
 - [UNIX pre administrátorov](minf/unix-pre-administratorov)
 
-### Učiteľstvo informatiky
+### učiteľstvo informatiky
 
 predmety:
 - [Psychológia pre učiteľov (1)](puin/psychologia-pre-ucitelov)
