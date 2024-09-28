@@ -1,0 +1,25 @@
+{{ define "main" }}
+{{ partial "back_link.html" .}}
+
+<article>
+    <h1>{{ .Title }}</h1>
+    
+    {{ if isset .Params "links" }}
+      <h2> Dôležité odkazy </h2>
+      {{ range $item := .Params.links }}
+        {{ $item.name }}: {{ if isset $item "url" }} <a href=" {{ $item.url }}">{{ cond (isset $item "alt") $item.alt $item.url }} {{ else }} {{ $item.text }} {{ end }}</a><br>
+      {{ end }}
+    {{ end }}
+
+
+    {{ if .Param "fmfiurl" }} Stránka predmetu: <a href="{{ .Params.fmfiurl }}">{{ .Params.fmfiurl }}</a> {{ end }}
+
+    {{ if .Params.toc }}
+        <aside {{ if .Params.tocBorder }} class="toc" {{ end }}>
+            {{ .TableOfContents }}
+        </aside>
+    {{ end }}
+
+    {{ .Content }}
+</article>
+{{ end }}
