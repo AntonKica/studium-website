@@ -7,9 +7,10 @@ Táto stránka bola vytovorená na dopyt [prof. RNDr. Branislav Rovan, PhD.](htt
 
 ## Zoznam študentov a tém
 
-| Meno a priezvisko | Téma |
-| ----------------- | ---- |
-| Rovan Branislav | [Diplomový seminár](#) |
+| Študent | Školiteľ | Téma |
+| --------| -------- | ---- |
+| Rovan Branislav | | [Diplomový seminár](#) |
+| Lukáš Gáborik   | Jozef Rajník |[A graph theory topic TBA](http://davinci.fmph.uniba.sk/~gaborik5/dipl.html) |
 
 
 ## Dôležité oznamy
