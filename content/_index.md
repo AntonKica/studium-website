@@ -8,12 +8,18 @@ rozvrh: [1mINF](https://candle.fmph.uniba.sk/kruzky/1mINF)
 predmety:
 
 - [Diplomový seminár](minf/diplomovy-seminar)
+- [Riadenie IT bezpečnosti](minf/riadenie-it-bezpecnosti)
+- [Strojové učenie](minf/strojove-ucenie)
+- [Teória informácie a teória kódovania (1)](minf/teoria-informacie-a-kodovania-1)
 - [UNIX pre administrátorov](minf/unix-pre-administratorov)
+- [Vybrané partie z dátových štruktúr](minf/vybrane-partie-z-datovych-struktur)
 
 ### učiteľstvo informatiky
 
 predmety:
+- [Pedagogický výskum a pedagogická diagnostika](puin/pedagogicky-vyskum-a-pedagogicka-diagnostika)
 - [Psychológia pre učiteľov (1)](puin/psychologia-pre-ucitelov)
+- [Všeobecná didaktika](puin/vseobecna-didaktika)
 
 
 ### hlášky
