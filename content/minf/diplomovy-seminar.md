@@ -15,8 +15,6 @@ Táto stránka bola vytovorená na dopyt [prof. RNDr. Branislav Rovan, PhD.](htt
 
 ## Dôležité oznamy
 
-Teda v snahe pomôcť študentom 3INF a 1mINF nájsť si tému na BP/DP bude opäť,  konkrétne budúcu stredu 2.10. o 11:30-13:10 v posluchárni F2,  spoločný seminár, na ktorom bude predstavovanie tém bakalárskych a diplomových  prác.
-
 | Oznam | Dátum |
 | ----- | ----- |
 | V stredu 2.10 o 11:30-13:10 v posluchárni F2 sa koná spoločný seminár, kde budú prezentované témy BP/DP. |	26.09.2024 |
