@@ -1,5 +1,7 @@
 <small> ([inšpirované predchodcom](https://hranolkyshamburgerom.sk)) </small>
 
+Chceš sám pridávať veci na túto stránku? ___Supér!___ Napíš mi <kica6@uniba.sk>.
+
 ## zimný semester
 
 ### informatika
