@@ -10,8 +10,8 @@ Táto stránka bola vytovorená na dopyt [prof. RNDr. Branislav Rovan, PhD.](htt
 | Študent | Školiteľ | Téma |
 | --------| -------- | ---- |
 | Rovan Branislav | | [Diplomový seminár](#) |
-| Lukáš Gáborik | Jozef Rajník |[A graph theory topic TBA](http://davinci.fmph.uniba.sk/~gaborik5/dipl.html) |
-| Ján Kamas | - |[A graph theory topic TBA](https://davinci.fmph.uniba.sk/~kamas7/diplomovy_seminar.html) |
+| Lukáš Gáborik | Jozef Rajník | [A graph theory topic TBA](http://davinci.fmph.uniba.sk/~gaborik5/dipl.html) |
+| Ján Kamas | - | [-](https://davinci.fmph.uniba.sk/~kamas7/diplomovy_seminar.html) |
 
 
 ## Dôležité oznamy
