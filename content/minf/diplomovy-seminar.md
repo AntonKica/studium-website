@@ -15,6 +15,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Rovan Branislav | | [Diplomový seminár](#) |
 | Lukáš Gáborik | Jozef Rajník | [A graph theory topic TBA](http://davinci.fmph.uniba.sk/~gaborik5/dipl.html) |
 | Ján Kamas | - | [-](https://davinci.fmph.uniba.sk/~kamas7/diplomovy_seminar.html) |
+| Lukáš Horňáček | TBA | [TBA](https://davinci.fmph.uniba.sk/~hornacek20/) |
 
 
 ## Dôležité oznamy
