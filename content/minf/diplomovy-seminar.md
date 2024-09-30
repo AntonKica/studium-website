@@ -5,7 +5,10 @@ title = 'Diplomovy seminár'
 
 Táto stránka bola vytovorená na dopyt [prof. RNDr. Branislav Rovan, PhD.](http://www.dcs.fmph.uniba.sk/~rovan/)
 
-## Zoznam študentov a tém
+
+## Zoznam študentov, školiteľov a tém
+
+__Prihlasovacie údaje__ dipl:dipl
 
 | Študent | Školiteľ | Téma |
 | --------| -------- | ---- |
