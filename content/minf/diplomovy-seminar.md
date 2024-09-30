@@ -12,11 +12,10 @@ __Prihlasovacie údaje__ dipl:dipl
 
 | Študent | Školiteľ | Téma |
 | --------| -------- | ---- |
-| Rovan Branislav | | [Diplomový seminár](#) |
-| Lukáš Gáborik | Jozef Rajník | [A graph theory topic TBA](http://davinci.fmph.uniba.sk/~gaborik5/dipl.html) |
+| Lukáš Gáborik | Mgr. Jozef Rajník, PhD. | [A graph theory topic TBA](http://davinci.fmph.uniba.sk/~gaborik5/dipl.html) |
 | Ján Kamas | - | [-](https://davinci.fmph.uniba.sk/~kamas7/diplomovy_seminar.html) |
 | Lukáš Horňáček | TBA | [TBA](https://davinci.fmph.uniba.sk/~hornacek20/) |
-| Radoslav Petráni | doc. RNDr. Robert Lukoťka, PhD | [Téma ešte nie je :(](https://davinci.fmph.uniba.sk/~petrani1/diplomovka/dipl.html) |
+| Radoslav Petráni | doc. RNDr. Robert Lukoťka, PhD. | [Téma ešte nie je :(](https://davinci.fmph.uniba.sk/~petrani1/diplomovka/dipl.html) |
 | Terézia Kabátová | RNDr. Jaroslav Janáček, PhD. | [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](http://davinci.fmph.uniba.sk/~kabatova31/) |
 | Belák Tomáš | ??? | [???](https://davinci.fmph.uniba.sk/~belak22/diplomovka) |
 
