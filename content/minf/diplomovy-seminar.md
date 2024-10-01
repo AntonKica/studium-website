@@ -20,6 +20,8 @@ __Prihlasovacie údaje__ dipl:dipl
 | Belák Tomáš | ??? | [???](https://davinci.fmph.uniba.sk/~belak22/diplomovka) |
 | Dávid Pitoňák |  | [-](https://davinci.fmph.uniba.sk/~pitonak13/diplomovka/) |
 | Ján Priner | prof. RNDr. Rastislav Královič PhD. | [???](https://priner.net/diplomovka/) |
+| Adam Lopaška | ??? | [???](https://davinci.fmph.uniba.sk/~lopaska1/diplomovka) |
+| Marek Michalovič | TBA | [TBA](https://davinci.fmph.uniba.sk/~michalovic26/diplomovka/index.html) |
 |  |  | []() |
 
 
