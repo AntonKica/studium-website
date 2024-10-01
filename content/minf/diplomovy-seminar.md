@@ -18,6 +18,9 @@ __Prihlasovacie údaje__ dipl:dipl
 | Radoslav Petráni | doc. RNDr. Robert Lukoťka, PhD. | [Téma ešte nie je :(](https://davinci.fmph.uniba.sk/~petrani1/diplomovka/dipl.html) |
 | Terézia Kabátová | RNDr. Jaroslav Janáček, PhD. | [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](http://davinci.fmph.uniba.sk/~kabatova31/) |
 | Belák Tomáš | ??? | [???](https://davinci.fmph.uniba.sk/~belak22/diplomovka) |
+| Dávid Pitoňák |  | [-](https://davinci.fmph.uniba.sk/~pitonak13/diplomovka/) |
+| Ján Priner | prof. RNDr. Rastislav Královič PhD. | [???](https://priner.net/diplomovka/) |
+|  |  | []() |
 
 
 ## Dôležité oznamy
