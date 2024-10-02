@@ -28,6 +28,8 @@ predmety:
 
 Dám tu pár zákládných, aby to nebolo suché...
 
+Ja sa volám Andrej Ferko a neasociujem sa so žiadnou minerálkou.
+
 __PsychUč__: (_Na margo toho, že výchova dieťaťa začína jeho počatím_) "Keď si chcete pospať, začína party v bruchu."
 
 __PsychUč__: bezpohlavné hračky
