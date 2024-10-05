@@ -24,6 +24,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Marek Michalovič | TBA | [TBA](https://davinci.fmph.uniba.sk/~michalovic26/diplomovka/index.html) |
 | Valter Cingel | prof. RNDr. Róbert Jajcay, DrSc.  | [Uniform routings of shortest paths on Johnson graphs](https://www.st.fmph.uniba.sk/~cingel13/dipl/dipl.html) |
 | Jakub Caban | - | [-](https://davinci.fmph.uniba.sk/~caban14/dipl) |
+| Man František Václav | TBD | [TBD](https://davinci.fmph.uniba.sk/~man1/masters) |
 |  |  | []() |
 
 
