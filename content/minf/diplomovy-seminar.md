@@ -16,7 +16,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Ján Kamas | - | [-](https://davinci.fmph.uniba.sk/~kamas7/diplomovy_seminar.html) |
 | Lukáš Horňáček | TBA | [TBA](https://davinci.fmph.uniba.sk/~hornacek20/diplomovy_seminar/index.html) |
 | Radoslav Petráni | doc. RNDr. Robert Lukoťka, PhD. | [Téma ešte nie je :(](https://davinci.fmph.uniba.sk/~petrani1/diplomovka/dipl.html) |
-| Terézia Kabátová | RNDr. Jaroslav Janáček, PhD. | [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](http://davinci.fmph.uniba.sk/~kabatova31/) |
+| Terézia Kabátová | RNDr. Jaroslav Janáček, PhD. | [L7 firewall založený na Linuxe s podporou pokročilých možností kontroly](http://davinci.fmph.uniba.sk/~kabatova31/) |
 | Belák Tomáš | ??? | [???](https://davinci.fmph.uniba.sk/~belak22/diplomovka) |
 | Dávid Pitoňák | - | [-](https://davinci.fmph.uniba.sk/~pitonak13/diplomovka/) |
 | Ján Priner | prof. RNDr. Rastislav Královič PhD. | [???](https://priner.net/diplomovka/) |
