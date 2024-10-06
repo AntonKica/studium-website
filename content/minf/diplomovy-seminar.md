@@ -25,6 +25,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Valter Cingel | prof. RNDr. Róbert Jajcay, DrSc.  | [Uniform routings of shortest paths on Johnson graphs](https://www.st.fmph.uniba.sk/~cingel13/dipl/dipl.html) |
 | Jakub Caban | - | [-](https://davinci.fmph.uniba.sk/~caban14/dipl) |
 | Man František Václav | TBD | [TBD](https://davinci.fmph.uniba.sk/~man1/masters) |
+| Gabriela Chutňáková | Mgr. Vladimír Boža, PhD. | [Adaptive running of LLM parts](https://davinci.fmph.uniba.sk/~chutnakova5/diplomovka/) |
 |  |  | []() |
 
 
