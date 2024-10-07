@@ -26,6 +26,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Jakub Caban | - | [-](https://davinci.fmph.uniba.sk/~caban14/dipl) |
 | Man František Václav | TBD | [TBD](https://davinci.fmph.uniba.sk/~man1/masters) |
 | Gabriela Chutňáková | Mgr. Vladimír Boža, PhD. | [Adaptive running of LLM parts](https://davinci.fmph.uniba.sk/~chutnakova5/diplomovka/) |
+| Nadiya Balanchuk | Mgr. Jozef Rajník, PhD. | [Jednoznačne hranovo-zafarbiteľné kubické grafy](https://davinci.fmph.uniba.sk/~balanchuk2/dp/) |
 |  |  | []() |
 
 
