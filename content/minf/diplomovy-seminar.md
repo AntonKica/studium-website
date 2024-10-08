@@ -29,6 +29,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Man František Václav | TBD | [TBD](https://davinci.fmph.uniba.sk/~man1/masters) |
 | Gabriela Chutňáková | Mgr. Vladimír Boža, PhD. | [Adaptive running of LLM parts](https://davinci.fmph.uniba.sk/~chutnakova5/diplomovka/) |
 | Nadiya Balanchuk | Mgr. Jozef Rajník, PhD. | [Jednoznačne hranovo-zafarbiteľné kubické grafy](https://davinci.fmph.uniba.sk/~balanchuk2/dp/) |
+| Samuel Vavrek | doc. RNDr. Martin Plesch, PhD. | [Hybridné algoritmy na kvantových počítačoch](https://davinci.fmph.uniba.sk/~vavrek16/) |
 |  |  | []() |
 
 
