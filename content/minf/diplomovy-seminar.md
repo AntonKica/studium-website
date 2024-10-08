@@ -8,6 +8,8 @@ Táto stránka bola vytovorená na dopyt [prof. RNDr. Branislav Rovan, PhD.](htt
 
 ## Zoznam študentov, školiteľov a tém
 
+[__Návod na zaheslovanie webstránky hostovanej na daVinci__](https://davinci.fmph.uniba.sk/~hornacek20/navod.html)
+
 __Prihlasovacie údaje__ dipl:dipl
 
 | Študent | Školiteľ | Téma |
