@@ -32,11 +32,33 @@ __Prihlasovacie údaje__ dipl:dipl
 | Samuel Vavrek | doc. RNDr. Martin Plesch, PhD. | [Hybridné algoritmy na kvantových počítačoch](https://davinci.fmph.uniba.sk/~vavrek16/) |
 |  |  | []() |
 
-
 ## Dôležité oznamy
 
 | Oznam | Dátum |
 | ----- | ----- |
-| V stredu 2.10 o 11:30-13:10 v posluchárni F2 sa koná spoločný seminár, kde budú prezentované témy BP/DP. |	26.09.2024 |
-| Diplomový seminár (1) sa 1.10.2024 nekoná: Študenti si majú zhánať témy a profesor Rovan ide na MIRRI. |	25.09.2024 |
+| Ku dňu 23.10. mať pripravené povedať niečo krátko/zhruba povedať o svojej téme.| 9.10.2024 |
+| Diplomový seminár (1) sa 16.10.2024 nekoná.| 9.10.2024 |
+| V stredu 2.10 o 11:30-13:10 v posluchárni F2 sa koná spoločný seminár, kde budú prezentované témy BP/DP. | 26.09.2024 |
+| Diplomový seminár (1) sa 2.10.2024 nekoná: Študenti si majú zhánať témy a profesor Rovan ide na MIRRI. | 25.09.2024 |
 
+## Dobré rady prof. Rovana
+
+- Semináre sú na to, aby sme si pomohli a riešili časté problémy spolu.
+- Články si treba čítať zoširoka. Túto techniku treba rekurzívne aplikovať na potrebnejšie/zaujímavejšie/nezrozumiteľnejšie časti.
+- Súbory pre diplomovku si treba pravidelne zálohovať.
+- Vašu prácu by ste mali prezentovať ďalším, ideálne na ŠVOČ (Študenská vedecká odborná činnosť).
+- Robte si poznámky, čo ste skúšali, čo sa podarilo, čo bolá slepá cesta, aby ste ukázali, ako ste premýšľali. O rok si to nemusíte spomenúť.
+- Trošku poprosím hlasnejšie.
+- Kolega Revúcky má Diplomový seminár (3)
+
+
+## Ďalšie zaujímavé veci
+
+- Konferencia SOFSEM-2025
+- Centrum vedecko-technických informácií Slovenskej republiky, technická knižnica
+
+## Neusporiadané zo seminárov
+
+### 9.10.2024
+
+- Na svojej stránke si k svojej téme pripraviť 3-5 najzaujímavejších článkov a 3-5 konferencií. Stačí si ich iba pripraviť, netreba ich mať kompletne naštudované.
