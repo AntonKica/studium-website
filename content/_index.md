@@ -27,7 +27,9 @@ predmety:
 ### hlášky
 
 Dám tu pár zákládných, aby to nebolo suché...
+
 __UNIX pre Administrátorov:__ Poúživatelia sa správaju ako ideálny plyn, dajte im ľubovoľný priestor a oni ho zaplnia.
+
 Ja sa volám Andrej Ferko a neasociujem sa so žiadnou minerálkou.
 
 __PsychUč__: (_Na margo toho, že výchova dieťaťa začína jeho počatím_) "Keď si chcete pospať, začína party v bruchu."
