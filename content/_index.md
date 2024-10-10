@@ -28,7 +28,7 @@ predmety:
 
 Dám tu pár zákládných, aby to nebolo suché...
 
-__UNIX pre Administrátorov:__ Poúživatelia sa správaju ako ideálny plyn, dajte im ľubovoľný priestor a oni ho zaplnia.
+__UNIX pre Administrátorov:__ Používatelia sa správajú ako ideálny plyn, dajte im ľubovoľný priestor a oni ho zaplnia.
 
 Ja sa volám Andrej Ferko a neasociujem sa so žiadnou minerálkou.
 
