@@ -17,7 +17,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Lukáš Gáborik | Mgr. Jozef Rajník, PhD. | [Flows, cages, multipoles of given girth](http://davinci.fmph.uniba.sk/~gaborik5/dipl/index.html) |
 | Ján Kamas | - | [-](https://davinci.fmph.uniba.sk/~kamas7/diplomovy_seminar.html) |
 | Lukáš Horňáček | doc. RNDr. Martin Stanek, PhD. | [Detection and analysis of DoS vulnerabilities in cryptographic protocols](https://davinci.fmph.uniba.sk/~hornacek20/diplomovy_seminar/index.html) |
-| Radoslav Petráni | doc. RNDr. Robert Lukoťka, PhD. | [Téma ešte nie je :(](https://davinci.fmph.uniba.sk/~petrani1/diplomovka/dipl.html) |
+| Radoslav Petráni | doc. RNDr. Robert Lukoťka, PhD. | [Aproximácia hamiltonovskosti na kubických grafoch](https://davinci.fmph.uniba.sk/~petrani1/diplomovka/dipl.html) |
 | Terézia Kabátová | RNDr. Jaroslav Janáček, PhD. | [L7 firewall založený na Linuxe s podporou pokročilých možností kontroly](http://davinci.fmph.uniba.sk/~kabatova31/) |
 | Belák Tomáš | ??? | [???](https://davinci.fmph.uniba.sk/~belak22/diplomovka) |
 | Dávid Pitoňák | - | [-](https://davinci.fmph.uniba.sk/~pitonak13/diplomovka/) |
