@@ -31,6 +31,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Nadiya Balanchuk | Mgr. Jozef Rajník, PhD. | [Jednoznačne hranovo-zafarbiteľné kubické grafy](https://davinci.fmph.uniba.sk/~balanchuk2/dp/) |
 | Samuel Vavrek | doc. RNDr. Martin Plesch, PhD. | [Hybridné algoritmy na kvantových počítačoch](https://davinci.fmph.uniba.sk/~vavrek16/) |
 | Terézia Koleková | RNDr. Zuzana Černeková, PhD. | [ešte sa dohodneme (medicínsky smer)](https://davinci.fmph.uniba.sk/~kolekova13/diplomovka/main.html) |
+| Paulína Jaremčuková | ??? | [???](https://davinci.fmph.uniba.sk/~jaremcukova1/) |
 |  |  | []() |
 
 ## Dôležité oznamy
