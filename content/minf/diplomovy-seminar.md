@@ -32,6 +32,8 @@ __Prihlasovacie údaje__ dipl:dipl
 | Samuel Vavrek | doc. RNDr. Martin Plesch, PhD. | [Hybridné algoritmy na kvantových počítačoch](https://davinci.fmph.uniba.sk/~vavrek16/) |
 | Terézia Koleková | RNDr. Zuzana Černeková, PhD. | [ešte sa dohodneme (medicínsky smer)](https://davinci.fmph.uniba.sk/~kolekova13/diplomovka/main.html) |
 | Paulína Jaremčuková | ??? | [???](https://davinci.fmph.uniba.sk/~jaremcukova1/) |
+| Martin Košovský | - | [-](http://www.st.fmph.uniba.sk/~kosovsky2/diplomovka/) |
+| Štauder Matej | ... | [...](http://www.st.fmph.uniba.sk/~stauder2/) |
 |  |  | []() |
 
 ## Dôležité oznamy
