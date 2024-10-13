@@ -34,6 +34,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Paulína Jaremčuková | ??? | [???](https://davinci.fmph.uniba.sk/~jaremcukova1/) |
 | Martin Košovský | - | [-](http://www.st.fmph.uniba.sk/~kosovsky2/diplomovka/) |
 | Štauder Matej | ... | [...](http://www.st.fmph.uniba.sk/~stauder2/) |
+| Anton Kica | doc. RNDr. Daniel Olejár PhD. | [Budeme sa venovať tvorbe pomocného systému pre manažéra KIB](https://davinci.fmph.uniba.sk/~kica6/diplomofka/) |
 |  |  | []() |
 
 ## Dôležité oznamy
