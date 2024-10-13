@@ -12,7 +12,7 @@ Táto stránka bola vytovorená na dopyt [prof. RNDr. Branislav Rovan, PhD.](htt
 
 __Prihlasovacie údaje__ dipl:dipl
 
-| študent | školiteľ | téma |  |
+| študent | školiteľ | téma | link |
 | --------| -------- | ---- |-|
 | Balanchuk Nadiya | Mgr. Jozef Rajník, PhD. | Jednoznačne hranovo-zafarbiteľné kubické grafy | [web](https://davinci.fmph.uniba.sk/~balanchuk2/dp/) |
 | Belák Tomáš | ??? | ??? | [web](https://davinci.fmph.uniba.sk/~belak22/diplomovka) |
