@@ -12,29 +12,29 @@ Táto stránka bola vytovorená na dopyt [prof. RNDr. Branislav Rovan, PhD.](htt
 
 __Prihlasovacie údaje__ dipl:dipl
 
-| Študent | Školiteľ | Téma |
-| --------| -------- | ---- |
-| Balanchuk Nadiya | Mgr. Jozef Rajník, PhD. | [Jednoznačne hranovo-zafarbiteľné kubické grafy](https://davinci.fmph.uniba.sk/~balanchuk2/dp/) |
-| Belák Tomáš | ??? | [???](https://davinci.fmph.uniba.sk/~belak22/diplomovka) |
-| Caban Jakub | - | [-](https://davinci.fmph.uniba.sk/~caban14/dipl) |
-| Cingel Valter | prof. RNDr. Róbert Jajcay, DrSc.  | [Uniform routings of shortest paths on Johnson graphs](https://www.st.fmph.uniba.sk/~cingel13/dipl/dipl.html) |
-| Dávid Pitoňák | - | [-](https://davinci.fmph.uniba.sk/~pitonak13/diplomovka/) |
-| Gáborik Lukáš | Mgr. Jozef Rajník, PhD. | [Flows, cages, multipoles of given girth](http://davinci.fmph.uniba.sk/~gaborik5/dipl/index.html) |
-| Horňáček Lukáš | doc. RNDr. Martin Stanek, PhD. | [Detection and analysis of DoS vulnerabilities in cryptographic protocols](https://davinci.fmph.uniba.sk/~hornacek20/diplomovy_seminar/index.html) |
-| Chutňáková Gabriela | Mgr. Vladimír Boža, PhD. | [Adaptive running of LLM parts](https://davinci.fmph.uniba.sk/~chutnakova5/diplomovka/) |
-| Jaremčuková Paulína | ??? | [???](https://davinci.fmph.uniba.sk/~jaremcukova1/) |
-| Kabátová Terézia | RNDr. Jaroslav Janáček, PhD. | [L7 firewall založený na Linuxe s podporou pokročilých možností kontroly](http://davinci.fmph.uniba.sk/~kabatova31/) |
-| Kamas Ján | - | [-](https://davinci.fmph.uniba.sk/~kamas7/diplomovy_seminar.html) |
-| Kica Anton | doc. RNDr. Daniel Olejár PhD. | [Budeme sa venovať tvorbe pomocného systému pre manažéra KIB](https://davinci.fmph.uniba.sk/~kica6/diplomofka/) |
-| Koleková Terézia | RNDr. Zuzana Černeková, PhD. | [ešte sa dohodneme (medicínsky smer)](https://davinci.fmph.uniba.sk/~kolekova13/diplomovka/main.html) |
-| Košovský Martin | - | [-](http://www.st.fmph.uniba.sk/~kosovsky2/diplomovka/) |
-| Lopaška Adam | ??? | [???](https://davinci.fmph.uniba.sk/~lopaska1/diplomovka) |
-| Man František Václav | TBD | [TBD](https://davinci.fmph.uniba.sk/~man1/masters) |
-| Michalovič Marek | TBA | [TBA](https://davinci.fmph.uniba.sk/~michalovic26/diplomovka/index.html) |
-| Petráni Radoslav | doc. RNDr. Robert Lukoťka, PhD. | [Aproximácia hamiltonovskosti na kubických grafoch](https://davinci.fmph.uniba.sk/~petrani1/diplomovka/dipl.html) |
-| Priner Ján | prof. RNDr. Rastislav Královič PhD. | [???](https://priner.net/diplomovka/) |
-| Štauder Matej | ... | [...](http://www.st.fmph.uniba.sk/~stauder2/) |
-| Vavrek Samuel | doc. RNDr. Martin Plesch, PhD. | [Hybridné algoritmy na kvantových počítačoch](https://davinci.fmph.uniba.sk/~vavrek16/) |
+| študent | školiteľ | téma |  |
+| --------| -------- | ---- |-|
+| Balanchuk Nadiya | Mgr. Jozef Rajník, PhD. | Jednoznačne hranovo-zafarbiteľné kubické grafy | [web](https://davinci.fmph.uniba.sk/~balanchuk2/dp/) |
+| Belák Tomáš | ??? | ??? | [web](https://davinci.fmph.uniba.sk/~belak22/diplomovka) |
+| Caban Jakub | - | - | [web](https://davinci.fmph.uniba.sk/~caban14/dipl) |
+| Cingel Valter | prof. RNDr. Róbert Jajcay, DrSc.  | Uniform routings of shortest paths on Johnson graphs | [web](https://www.st.fmph.uniba.sk/~cingel13/dipl/dipl.html) |
+| Dávid Pitoňák | - | - | [web](https://davinci.fmph.uniba.sk/~pitonak13/diplomovka/) |
+| Gáborik Lukáš | Mgr. Jozef Rajník, PhD. | Flows, cages, multipoles of given girth | [web](http://davinci.fmph.uniba.sk/~gaborik5/dipl/index.html) |
+| Horňáček Lukáš | doc. RNDr. Martin Stanek, PhD. | Detection and analysis of DoS vulnerabilities in cryptographic protocols | [web](https://davinci.fmph.uniba.sk/~hornacek20/diplomovy_seminar/index.html) |
+| Chutňáková Gabriela | Mgr. Vladimír Boža, PhD. | Adaptive running of LLM parts | [web](https://davinci.fmph.uniba.sk/~chutnakova5/diplomovka/) |
+| Jaremčuková Paulína | ??? | ??? | [web](https://davinci.fmph.uniba.sk/~jaremcukova1/) |
+| Kabátová Terézia | RNDr. Jaroslav Janáček, PhD. | L7 firewall založený na Linuxe s podporou pokročilých možností kontroly | [web](http://davinci.fmph.uniba.sk/~kabatova31/) |
+| Kamas Ján | - | - | [web](https://davinci.fmph.uniba.sk/~kamas7/diplomovy_seminar.html) |
+| Kica Anton | doc. RNDr. Daniel Olejár PhD. | Budeme sa venovať tvorbe pomocného systému pre manažéra KIB | [web](https://davinci.fmph.uniba.sk/~kica6/diplomofka/) |
+| Koleková Terézia | RNDr. Zuzana Černeková, PhD. | ešte sa dohodneme (medicínsky smer) | [web](https://davinci.fmph.uniba.sk/~kolekova13/diplomovka/main.html) |
+| Košovský Martin | - | - | [web](http://www.st.fmph.uniba.sk/~kosovsky2/diplomovka/) |
+| Lopaška Adam | ??? | ??? | [web](https://davinci.fmph.uniba.sk/~lopaska1/diplomovka) |
+| Man František Václav | TBD | TBD | [web](https://davinci.fmph.uniba.sk/~man1/masters) |
+| Michalovič Marek | TBA | TBA | [web](https://davinci.fmph.uniba.sk/~michalovic26/diplomovka/index.html) |
+| Petráni Radoslav | doc. RNDr. Robert Lukoťka, PhD. | Aproximácia hamiltonovskosti na kubických grafoch | [web](https://davinci.fmph.uniba.sk/~petrani1/diplomovka/dipl.html) |
+| Priner Ján | prof. RNDr. Rastislav Královič PhD. | ??? | [web](https://priner.net/diplomovka/) |
+| Štauder Matej | ... | ... | [web](http://www.st.fmph.uniba.sk/~stauder2/) |
+| Vavrek Samuel | doc. RNDr. Martin Plesch, PhD. | Hybridné algoritmy na kvantových počítačoch | [web](https://davinci.fmph.uniba.sk/~vavrek16/) |
 |  |  | []() |
 
 ## Dôležité oznamy
