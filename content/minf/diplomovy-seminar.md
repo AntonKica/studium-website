@@ -21,6 +21,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Dávid Pitoňák | - | - | [web](https://davinci.fmph.uniba.sk/~pitonak13/diplomovka/) |
 | Gáborik Lukáš | Mgr. Jozef Rajník, PhD. | Flows, cages, multipoles of given girth | [web](http://davinci.fmph.uniba.sk/~gaborik5/dipl/index.html) |
 | Horňáček Lukáš | doc. RNDr. Martin Stanek, PhD. | Detection and analysis of DoS vulnerabilities in cryptographic protocols | [web](https://davinci.fmph.uniba.sk/~hornacek20/diplomovy_seminar/index.html) |
+| Hudcovský Lukáš | RNDr. Jana Kostičová, PhD. | LR parsovanie permutačných fráz | [web](https://www.st.fmph.uniba.sk/~hudcovsky4/diplomovka/) |
 | Chutňáková Gabriela | Mgr. Vladimír Boža, PhD. | Adaptive running of LLM parts | [web](https://davinci.fmph.uniba.sk/~chutnakova5/diplomovka/) |
 | Jaremčuková Paulína | ??? | ??? | [web](https://davinci.fmph.uniba.sk/~jaremcukova1/) |
 | Kabátová Terézia | RNDr. Jaroslav Janáček, PhD. | L7 firewall založený na Linuxe s podporou pokročilých možností kontroly | [web](http://davinci.fmph.uniba.sk/~kabatova31/) |
@@ -35,7 +36,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Priner Ján | prof. RNDr. Rastislav Královič PhD. | ??? | [web](https://priner.net/diplomovka/) |
 | Štauder Matej | ... | ... | [web](http://www.st.fmph.uniba.sk/~stauder2/) |
 | Vavrek Samuel | doc. RNDr. Martin Plesch, PhD. | Hybridné algoritmy na kvantových počítačoch | [web](https://davinci.fmph.uniba.sk/~vavrek16/) |
-|  |  | []() |
+<!--|  |  |  | []() |-->
 
 ## Dôležité oznamy
 
