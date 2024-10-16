@@ -8,3 +8,6 @@ url = 'https://teams.microsoft.com/l/team/19%3AhUkAjGt0cg7sCDYkswNF3-yumvPYSNbwe
 alt='Psychológia pre učiteľov 2024/25'
 +++
 
+## Písomky
+
+- 8.11.2024 Polsemestrálna písomka
