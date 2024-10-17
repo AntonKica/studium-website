@@ -36,11 +36,12 @@ __Prihlasovacie údaje__ dipl:dipl
 | Michalovič Marek | TBA | TBA | [web](https://davinci.fmph.uniba.sk/~michalovic26/diplomovka/index.html) |
 | Petráni Radoslav | doc. RNDr. Robert Lukoťka, PhD. | Aproximácia hamiltonovskosti na kubických grafoch | [web](https://davinci.fmph.uniba.sk/~petrani1/diplomovka/dipl.html) |
 | Priner Ján | prof. RNDr. Rastislav Královič PhD. | ??? | [web](https://priner.net/diplomovka/) |
+| Skubeňová Zuzana | Ing. Dušan Bernát, PhD. | Analýza postupnosti adries ku ktorým proces pristupuje | [web](https://www.st.fmph.uniba.sk/~skubenova5/master-thesis/) |
 | Štauder Matej | ... | ... | [web](http://www.st.fmph.uniba.sk/~stauder2/) |
 | Tarhovický Jakub | Ing. Dušan Bernát, PhD. | DNS covert channel | [web](https://davinci.fmph.uniba.sk/~tarhovicky1/diplomovka/) |
 | Vavrek Samuel | doc. RNDr. Martin Plesch, PhD. | Hybridné algoritmy na kvantových počítačoch | [web](https://davinci.fmph.uniba.sk/~vavrek16/) |
 | Vnenčáková Patrícia | Marek Šuppa | v procese vyberu | [web](http://www.st.fmph.uniba.sk/~vnencakova6/dipl/) |
-<!--|  |  |  | []() |-->
+<!--|  |  |  | [web]() |-->
 
 ## Dôležité oznamy
 
