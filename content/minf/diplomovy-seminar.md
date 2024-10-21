@@ -21,7 +21,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Dávid Pitoňák | - | - | [web](https://davinci.fmph.uniba.sk/~pitonak13/diplomovka/) |
 | Dokupil Michal | plánované stretnutie s doktorkou Malinovskou. | TBA | [web](https://davinci.fmph.uniba.sk/~dokupil2/) |
 | Gáborik Lukáš | Mgr. Jozef Rajník, PhD. | Flows, cages, multipoles of given girth | [web](http://davinci.fmph.uniba.sk/~gaborik5/dipl/index.html) |
-| Horňáček Lukáš | doc. RNDr. Martin Stanek, PhD. | Detection and analysis of DoS vulnerabilities in cryptographic protocols | [web](https://davinci.fmph.uniba.sk/~hornacek20/diplomovy_seminar/index.html) |
+| Horňáček Lukáš | doc. RNDr. Martin Stanek, PhD. | Analysis and detection of DoS vulnerabilities in cryptographic protocols | [web](https://davinci.fmph.uniba.sk/~hornacek20/diplomovy_seminar/index.html) |
 | Hudcovský Lukáš | RNDr. Jana Kostičová, PhD. | LR parsovanie permutačných fráz | [web](https://www.st.fmph.uniba.sk/~hudcovsky4/diplomovka/) |
 | Chutňáková Gabriela | Mgr. Vladimír Boža, PhD. | Adaptive running of LLM parts | [web](https://davinci.fmph.uniba.sk/~chutnakova5/diplomovka/) |
 | Jaremčuková Paulína | ??? | ??? | [web](https://davinci.fmph.uniba.sk/~jaremcukova1/) |
@@ -34,7 +34,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Lopaška Adam | ??? | ??? | [web](https://davinci.fmph.uniba.sk/~lopaska1/diplomovka) |
 | Man František Václav | TBD | TBD | [web](https://davinci.fmph.uniba.sk/~man1/masters) |
 | Michalovič Marek | TBA | TBA | [web](https://davinci.fmph.uniba.sk/~michalovic26/diplomovka/index.html) |
-| Petráni Radoslav | doc. RNDr. Robert Lukoťka, PhD. | Aproximácia hamiltonovskosti na kubických grafoch | [web](https://davinci.fmph.uniba.sk/~petrani1/diplomovka/dipl.html) |
+| Petráni Radoslav | doc. RNDr. Robert Lukoťka, PhD. | Distance dominating circuits in cubic graphs | [web](https://davinci.fmph.uniba.sk/~petrani1/diplomovka/dipl.html) |
 | Priner Ján | prof. RNDr. Rastislav Královič PhD. | ??? | [web](https://priner.net/diplomovka/) |
 | Skubeňová Zuzana | Ing. Dušan Bernát, PhD. | Analýza postupnosti adries ku ktorým proces pristupuje | [web](https://www.st.fmph.uniba.sk/~skubenova5/master-thesis/) |
 | Štauder Matej | ... | ... | [web](http://www.st.fmph.uniba.sk/~stauder2/) |
