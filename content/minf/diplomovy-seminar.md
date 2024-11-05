@@ -22,6 +22,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Gáborik Lukáš | Mgr. Jozef Rajník, PhD. | Flows, cages, multipoles of given girth | [web](https://davinci.fmph.uniba.sk/~gaborik5/dipl/index.html) |
 | Horňáček Lukáš | doc. RNDr. Martin Stanek, PhD. | Analysis and detection of DoS vulnerabilities in cryptographic protocols | [web](https://davinci.fmph.uniba.sk/~hornacek20/diplomovy_seminar/index.html) |
 | Hudcovský Lukáš | RNDr. Jana Kostičová, PhD. | LR parsovanie permutačných fráz | [web](https://www.st.fmph.uniba.sk/~hudcovsky4/diplomovka/) |
+| Chymo Michal | Andrej Mihálik | Využitie 3D kamier v autonómnych vozidlách | [web](http://www.st.fmph.uniba.sk/~chymo1 ) |
 | Chutňáková Gabriela | Mgr. Vladimír Boža, PhD. | Adaptive running of LLM parts | [web](https://davinci.fmph.uniba.sk/~chutnakova5/diplomovka/) |
 | Jaremčuková Paulína | Mgr. Iveta Bečková, PhD. | Aderseriálne vstupy (ešte bude upresnená) | [web](https://davinci.fmph.uniba.sk/~jaremcukova1/) |
 | Kabátová Terézia | RNDr. Jaroslav Janáček, PhD. | L7 firewall založený na Linuxe s podporou pokročilých možností kontroly | [web](https://davinci.fmph.uniba.sk/~kabatova31/) |
