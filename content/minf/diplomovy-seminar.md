@@ -35,7 +35,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Man František Václav | TBD | TBD | [web](https://davinci.fmph.uniba.sk/~man1/masters) |
 | Michalovič Marek | doc. RNDr. Pavel Chalmovianský, PhD. | Vytváranie 3D modelov budov z mračien lidarových bodov | [web](https://davinci.fmph.uniba.sk/~michalovic26/diplomovka/index.html) |
 | Petráni Radoslav | doc. RNDr. Robert Lukoťka, PhD. | Distance dominating circuits in cubic graphs | [web](https://davinci.fmph.uniba.sk/~petrani1/diplomovka/dipl.html) |
-| Pitoňák Dávid | Mgr. Iveta Bečková, PhD. | Analýza RecViT siete (neoficiálny názov) | [web](https://davinci.fmph.uniba.sk/~pitonak13/diplomovka/) |
+| Pitoňák Dávid | RNDr. Zuzana Černeková, PhD. | Triedenie plastového odpadu pomocou umelej inteligencie | [web](https://davinci.fmph.uniba.sk/~pitonak13/diplomovka/) |
 | Priner Ján | prof. RNDr. Rastislav Královič PhD. | ??? | [web](https://priner.net/diplomovka/) |
 | Skubeňová Zuzana | Ing. Dušan Bernát, PhD. | Analýza postupnosti adries ku ktorým proces pristupuje | [web](https://www.st.fmph.uniba.sk/~skubenova5/master-thesis/) |
 | Štauder Matej | ... | ... | [web](https://www.st.fmph.uniba.sk/~stauder2/) |
