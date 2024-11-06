@@ -27,7 +27,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Jaremčuková Paulína | Mgr. Iveta Bečková, PhD. | Aderseriálne vstupy (ešte bude upresnená) | [web](https://davinci.fmph.uniba.sk/~jaremcukova1/) |
 | Kabátová Terézia | RNDr. Jaroslav Janáček, PhD. | L7 firewall založený na Linuxe s podporou pokročilých možností kontroly | [web](https://davinci.fmph.uniba.sk/~kabatova31/) |
 | Kamas Ján | Ing. Viktor Kocur, PhD. | 3D Object Pose Estimation in RGB-D Data with Uncertainty Quantification | [web](https://davinci.fmph.uniba.sk/~kamas7/diplomovy_seminar.html) |
-| Kica Anton | doc. RNDr. Daniel Olejár PhD. | Budeme sa venovať tvorbe pomocného systému pre manažéra KIB | [web](https://davinci.fmph.uniba.sk/~kica6/diplomofka/) |
+| Kica Anton | doc. RNDr. Daniel Olejár PhD. | Analýza rizík v oblasti KIB | [web](https://davinci.fmph.uniba.sk/~kica6/diplomofka/) |
 | Koleková Terézia | RNDr. Zuzana Černeková, PhD. | Využitie semisupervised learningu v detekcii lézií bielej hmoty na MRI snímkach mozgu  | [web](https://davinci.fmph.uniba.sk/~kolekova13/diplomovka/main.html) |
 | Košovský Martin | Mgr. Marcel Makovník, PhD. | - | [web](https://www.st.fmph.uniba.sk/~kosovsky2/diplomovka/) |
 | Krošlák Maximilián Martin | RNDr. Róbert Bohdal, PhD. | Reakčná difúzia (neoficiálny názov témy) | [web](https://davinci.fmph.uniba.sk/~kroslak22/diplSem/) |
