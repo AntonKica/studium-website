@@ -19,7 +19,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Caban Jakub | - | - | [web](https://davinci.fmph.uniba.sk/~caban14/dipl) |
 | Cingel Valter | prof. RNDr. Róbert Jajcay, DrSc.  | Uniform routings of shortest paths on Johnson graphs | [web](https://www.st.fmph.uniba.sk/~cingel13/dipl/dipl.html) |
 | Dokupil Michal | plánované stretnutie s doktorkou Malinovskou. | TBA | [web](https://davinci.fmph.uniba.sk/~dokupil2/) |
-| Gáborik Lukáš | Mgr. Jozef Rajník, PhD. | Flows, cages, multipoles of given girth | [web](https://davinci.fmph.uniba.sk/~gaborik5/dipl/index.html) |
+| Gáborik Lukáš | Mgr. Jozef Rajník, PhD. | New approaches to nowhere-zero flow problems | [web](https://davinci.fmph.uniba.sk/~gaborik5/dipl/index.html) |
 | Horňáček Lukáš | doc. RNDr. Martin Stanek, PhD. | Analysis and detection of DoS vulnerabilities in cryptographic protocols | [web](https://davinci.fmph.uniba.sk/~hornacek20/diplomovy_seminar/index.html) |
 | Hudcovský Lukáš | RNDr. Jana Kostičová, PhD. | LR parsovanie permutačných fráz | [web](https://www.st.fmph.uniba.sk/~hudcovsky4/diplomovka/) |
 | Chymo Michal | Andrej Mihálik | Využitie 3D kamier v autonómnych vozidlách | [web](http://www.st.fmph.uniba.sk/~chymo1 ) |
