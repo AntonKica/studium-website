@@ -36,7 +36,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Michalovič Marek | doc. RNDr. Pavel Chalmovianský, PhD. | Vytváranie 3D modelov budov z mračien lidarových bodov | [web](https://davinci.fmph.uniba.sk/~michalovic26/diplomovka/index.html) |
 | Petráni Radoslav | doc. RNDr. Robert Lukoťka, PhD. | Distance dominating circuits in cubic graphs | [web](https://davinci.fmph.uniba.sk/~petrani1/diplomovka/dipl.html) |
 | Pitoňák Dávid | RNDr. Zuzana Černeková, PhD. | Triedenie plastového odpadu pomocou umelej inteligencie | [web](https://davinci.fmph.uniba.sk/~pitonak13/diplomovka/) |
-| Priner Ján | prof. RNDr. Rastislav Královič PhD. | ??? | [web](https://priner.net/diplomovka/) |
+| Priner Ján | prof. RNDr. Rastislav Královič PhD. | Neuniformé modifikácie automatov | [web](https://priner.net/diplomovka/) |
 | Skubeňová Zuzana | Ing. Dušan Bernát, PhD. | Analýza postupnosti adries ku ktorým proces pristupuje | [web](https://www.st.fmph.uniba.sk/~skubenova5/master-thesis/) |
 | Štauder Matej | prof. Ing. Igor Farkas, Dr. | Redrawing of simple black-and-white sketches using humanoid robot | [web](https://www.st.fmph.uniba.sk/~stauder2/) |
 | Tarhovický Jakub | Ing. Dušan Bernát, PhD. | DNS covert channel | [web](https://davinci.fmph.uniba.sk/~tarhovicky1/diplomovka/) |
