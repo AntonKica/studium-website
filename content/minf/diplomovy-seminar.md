@@ -15,7 +15,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | študent | školiteľ | téma | link |
 | --------| -------- | ---- |-|
 | Balanchuk Nadiya | Mgr. Jozef Rajník, PhD. | Jednoznačne hranovo-zafarbiteľné kubické grafy | [web](https://davinci.fmph.uniba.sk/~balanchuk2/dp/) |
-| Belák Tomáš | ??? | ??? | [web](https://davinci.fmph.uniba.sk/~belak22/diplomovka) |
+| Belák Tomáš | Mgr. Stefan Pocos PhD. | Training and analysis of robot NICO in virtual environment | [web](https://davinci.fmph.uniba.sk/~belak22/diplomovka) |
 | Caban Jakub | - | - | [web](https://davinci.fmph.uniba.sk/~caban14/dipl) |
 | Cingel Valter | prof. RNDr. Róbert Jajcay, DrSc.  | Uniform routings of shortest paths on Johnson graphs | [web](https://www.st.fmph.uniba.sk/~cingel13/dipl/dipl.html) |
 | Dokupil Michal | plánované stretnutie s doktorkou Malinovskou. | TBA | [web](https://davinci.fmph.uniba.sk/~dokupil2/) |
@@ -32,7 +32,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Košovský Martin | Mgr. Marcel Makovník, PhD. | - | [web](https://www.st.fmph.uniba.sk/~kosovsky2/diplomovka/) |
 | Krošlák Maximilián Martin | RNDr. Róbert Bohdal, PhD. | Reakčná difúzia (neoficiálny názov témy) | [web](https://davinci.fmph.uniba.sk/~kroslak22/diplSem/) |
 | Lopaška Adam | RNDr. Zuzana Černeková, PhD. | - | [web](https://davinci.fmph.uniba.sk/~lopaska1/diplomovka) |
-| Man František Václav | TBD | TBD | [web](https://davinci.fmph.uniba.sk/~man1/masters) |
+| Man František Václav | Mgr. Jaroslav Budiš, PhD. | Automated classification of the clinical impact of structural genomic variations | [web](https://davinci.fmph.uniba.sk/~man1/masters) |
 | Michalovič Marek | doc. RNDr. Pavel Chalmovianský, PhD. | Vytváranie 3D modelov budov z mračien lidarových bodov | [web](https://davinci.fmph.uniba.sk/~michalovic26/diplomovka/index.html) |
 | Petráni Radoslav | doc. RNDr. Robert Lukoťka, PhD. | Distance dominating circuits in cubic graphs | [web](https://davinci.fmph.uniba.sk/~petrani1/diplomovka/dipl.html) |
 | Pitoňák Dávid | RNDr. Zuzana Černeková, PhD. | Triedenie plastového odpadu pomocou umelej inteligencie | [web](https://davinci.fmph.uniba.sk/~pitonak13/diplomovka/) |
