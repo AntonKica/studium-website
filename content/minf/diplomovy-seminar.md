@@ -17,7 +17,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Balanchuk Nadiya | Mgr. Jozef Rajník, PhD. | Jednoznačne hranovo-zafarbiteľné kubické grafy | [web](https://davinci.fmph.uniba.sk/~balanchuk2/dp/) |
 | Belák Tomáš | Mgr. Stefan Pocos PhD. | Training and analysis of robot NICO in virtual environment | [web](https://davinci.fmph.uniba.sk/~belak22/diplomovka) |
 | Caban Jakub | - | - | [web](https://davinci.fmph.uniba.sk/~caban14/dipl) |
-| Cingel Valter | prof. RNDr. Róbert Jajcay, DrSc.  | Uniform routings of shortest paths on Johnson graphs | [web](https://www.st.fmph.uniba.sk/~cingel13/dipl/dipl.html) |
+| Cingel Valter | prof. RNDr. Róbert Jajcay, DrSc.  | Uniform routings of shortest paths in graphs with large automorphism groups | [web](https://www.st.fmph.uniba.sk/~cingel13/dipl/dipl.html) |
 | Dokupil Michal | plánované stretnutie s doktorkou Malinovskou. | TBA | [web](https://davinci.fmph.uniba.sk/~dokupil2/) |
 | Gáborik Lukáš | Mgr. Jozef Rajník, PhD. | New approaches to nowhere-zero flow problems | [web](https://davinci.fmph.uniba.sk/~gaborik5/dipl/index.html) |
 | Horňáček Lukáš | doc. RNDr. Martin Stanek, PhD. | Analysis and detection of DoS vulnerabilities in cryptographic protocols | [web](https://davinci.fmph.uniba.sk/~hornacek20/diplomovy_seminar/index.html) |
