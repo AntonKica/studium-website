@@ -40,7 +40,7 @@ __Prihlasovacie údaje__ dipl:dipl
 | Skubeňová Zuzana | Ing. Dušan Bernát, PhD. | Analýza postupnosti adries ku ktorým proces pristupuje | [web](https://www.st.fmph.uniba.sk/~skubenova5/master-thesis/) |
 | Štauder Matej | prof. Ing. Igor Farkas, Dr. | Redrawing of simple black-and-white sketches using humanoid robot | [web](https://www.st.fmph.uniba.sk/~stauder2/) |
 | Tarhovický Jakub | Ing. Dušan Bernát, PhD. | DNS covert channel | [web](https://davinci.fmph.uniba.sk/~tarhovicky1/diplomovka/) |
-| Vavrek Samuel | doc. RNDr. Martin Plesch, PhD. | Hybridné algoritmy na kvantových počítačoch | [web](https://davinci.fmph.uniba.sk/~vavrek16/) |
+| Vavrek Samuel | Mgr. Ivor Uhliarik, PhD. | Produktový fuzzy SAT solver na báze dichotomickej DPLL procedúry | [web](https://davinci.fmph.uniba.sk/~vavrek16/) |
 | Vnenčáková Patrícia | Marek Šuppa | v procese vyberu | [web](https://www.st.fmph.uniba.sk/~vnencakova6/dipl/) |
 <!--|  |  |  | [web]() |-->
 
