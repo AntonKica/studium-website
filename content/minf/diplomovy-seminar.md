@@ -5,6 +5,27 @@ title = 'Diplomovy seminár'
 
 Táto stránka bola vytovorená na dopyt [prof. RNDr. Branislav Rovan, PhD.](http://www.dcs.fmph.uniba.sk/~rovan/)
 
+## Skúškové
+
+### Prezentácia
+
+Vyber si termín v AIS-e, buď 21.1 (primárne teoretický) alebo 23.1 (primárne praktický) a prihlás sa naň.
+
+Na prezentovanie máš 8-10 minút.
+
+### Písomná práca
+
+Prvých 10-15 strán kapitoly "Súčasný stav" zverejni ako prílohu na svojej stránke. Následne napíšeš prof. Rovanovi
+mail (<rovan@dcs.fmph.uniba.sk>), že si prosíš, aby sa pozrel na tvoju prácu a zhodnotil ju.
+
+Termíny odovzdania písomnej časti práce s hornou hranicou známky sú nasledovné:
+
+| dátum | známka, ak nie si Jakub Tarhovický |
+| ----- | ------ |
+| 27.1  | A |
+| 3.2   | B |
+| 10.2  | C |
+
 
 ## Zoznam študentov, školiteľov a tém
 
@@ -44,14 +65,6 @@ __Prihlasovacie údaje__ dipl:dipl
 | Vnenčáková Patrícia | Marek Šuppa | v procese vyberu | [web](https://www.st.fmph.uniba.sk/~vnencakova6/dipl/) |
 <!--|  |  |  | [web]() |-->
 
-## Dôležité oznamy
-
-| Oznam | Dátum |
-| ----- | ----- |
-| Ku dňu 23.10. mať pripravené povedať niečo krátko/zhruba povedať o svojej téme.| 9.10.2024 |
-| Diplomový seminár (1) sa 16.10.2024 nekoná.| 9.10.2024 |
-| V stredu 2.10 o 11:30-13:10 v posluchárni F2 sa koná spoločný seminár, kde budú prezentované témy BP/DP. | 26.09.2024 |
-| Diplomový seminár (1) sa 2.10.2024 nekoná: Študenti si majú zhánať témy a profesor Rovan ide na MIRRI. | 25.09.2024 |
 
 ## Dobré rady prof. Rovana
 
