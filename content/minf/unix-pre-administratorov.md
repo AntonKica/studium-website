@@ -685,9 +685,71 @@ sme napriklad povedali, ze Vas pocitac patri do domeny zimmerman.net
 a ako nameserver ma pouzivat pocitac s adresou 192.168.12.5?
 
 
+#### riešenie
+
 ```bash
 cat >> /etc/hosts <<- EOF
 domain zimmerman.net
 nameserver 192.168.12.5
 EOF
 ```
+
+### ACL
+
+1. Spoznajte programy getfacl a setfacl, o ktorych ste poculi na prednaske.
+Ako vyzera vystup programu getfacl pre subory a pre adresare? Ako
+zistime, ci filesystem vobec podporuje ACL?
+
+---
+
+2. Vytvorte adresar /home/kralikaren, v ktorom bude moct pouzivatel 'zajac'
+robit vsetko, co chce. Pouzivatel 'mrkva' bude mat pravo na citanie,
+zapis a prechadzanie tohto adresara, pouzivatel 'kapusta' moze iba citat
+a prechadzat.  Pre pouzivatela 'hrach' bude adresar uplne nedostupny
+(lubovolnemu inemu pouzivatelovi sa prava nezmenia).
+
+#### riešenie
+
+```bash
+mkdir /home/kralikaren
+chown zajac: /home/kralikaren
+setfacl -m u:mrkva:rwx,u:kapusta:r-x,u:hrach:--- /home/kralikaren
+```
+
+---
+
+3. Zabezpecte, aby vsetko, co vznikne v kralikarni, vedel zajac zapisovat a
+citat. Pouzivatel 'mrkva' moze vsetky taketo subory citat a prechadzat
+adresare, nemoze vsak zapisovat.
+
+#### riešenie
+
+```bash
+setfacl -dm u:zajac:rwx,u:mrkva:r-x /home/kralikaren
+```
+
+---
+
+4. Ako by ste zabezpecili (bez toho, aby ste menili prava kazdemu
+pouzivatelovi), aby do kralikarne (docasne) nikto okrem vlastnika nemohol 
+zapisovat?
+
+#### riešenie
+
+```bash
+setfacl -m m::r-x,o::r-x /home/kralikaren
+setfacl -mn o::r-x /home/kralikaren # need to set others separately, since they are not affected by the mask
+```
+
+---
+
+5. Rozhodli ste sa, ze pouzivatel 'hrach' bude predsalen mat v kralikarni 
+prava, ako vsetci ostatni. Ako to zariadite?
+
+#### riešenie
+
+```bash
+setfacl -x u:hrach /home/kralikaren
+```
+
+### Firewall
