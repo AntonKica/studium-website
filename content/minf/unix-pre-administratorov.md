@@ -462,10 +462,10 @@ Poznamocka: Asi sa Vam zidu prikazy "write" a "wall".
 
 #### riešenie
 
-- add to crontab following line: `* * * * * /usr/bin/wall $(time)`
+- add to crontab following line: `*/10 * * * * /usr/bin/wall $(time)`
 
 
-### Konfigurǎcia TCP/IP
+### Konfigurácia TCP/IP
 
 1. Aby sa sietova karta dala pouzivat, treba ju nakonfigurovat. Vsetky
 virtualne pocitace su momentalne zapojene do jednej velkej spolocnej
