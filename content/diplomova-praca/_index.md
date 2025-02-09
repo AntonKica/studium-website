@@ -55,6 +55,8 @@ Link na prezentáciu [tu](https://liveuniba-my.sharepoint.com/:p:/g/personal/kic
 
 ## Ostatné
 
+- French ANSSI EBIOS [link](https://cyber.gouv.fr/en/publications/ebios-risk-manager-method), like BSI
+- British NSCS [link](https://www.ncsc.gov.uk/cyberessentials/resources), may be usefull
 - NIST RMF [link](https://csrc.nist.gov/Projects/risk-management/about-rmf)
 - OMB ([link](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/circulars/index.html)) CIRCULAR NO. A-130 ([link](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/circulars/a130/a130trans4.html))
 - Estonian centre for standardisation and accreditaion, e-shop - [Information security, cybersecurity and privacy protection - Guidance on managing information security risks (ISO/IEC 27005:2022)](https://www.evs.ee/en/evs-en-iso-iec-27005-2024)
