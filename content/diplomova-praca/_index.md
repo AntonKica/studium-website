@@ -3,6 +3,10 @@ title = 'Diplomová práca'
 date = 2024-10-06
 +++
 
+## Písomná praca
+
+- [text práce k Diplomový seminár (1)](/diplomova-praca/diplomova-praca-v0.1.pdf)
+
 ## Hrubá špecifikácia systému
 
 **Cieľová skupina**: poskytovateľ/správca informačných technológií vo verejnej správe
