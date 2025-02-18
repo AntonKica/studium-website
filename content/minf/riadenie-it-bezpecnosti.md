@@ -1,5 +1,5 @@
 +++
-layout = "subject-info"
+layout = 'subject-info'
 title = 'Riadenie IT bezpečnosti'
 
 [params.links.teams]

@@ -1,10 +1,10 @@
 +++
-layout = "subject-info"
+layout = 'subject-info'
 title = 'Všeobecná didaktika'
 
 [params.links.moodle]
-name = "Moodle"
-url = "https://moodle.uniba.sk/course/view.php?id=2217"
+name = 'Moodle'
+url = 'https://moodle.uniba.sk/course/view.php?id=2217'
 +++
 
 ## Zdieľané súbory

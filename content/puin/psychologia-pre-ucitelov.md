@@ -1,6 +1,6 @@
 +++
-layout = "subject-info"
-title = "Psychológia pre učiteľov"
+layout = 'subject-info'
+title = 'Psychológia pre učiteľov'
 
 [params.links.teams]
 name = 'Microsoft Teams'
