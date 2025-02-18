@@ -12,6 +12,7 @@ predmety:
 | Názov predmetu | link interný odkaz | link na stránku predmetu |
 | -------------- | ------------- | ------------------------ |
 | Princípy tvorby softvéru (3) | [interný link](/minf/principy-tvorby-softveru-3) | [stránka predmetu](http://www.dcs.fmph.uniba.sk/~kosticova/202324/pts3.html) |
+| Magisterský projekt | [interný link](/minf/magistersky-projekt) | [stránka predmetu](http://www.dcs.fmph.uniba.sk/~bernat/mp/) |
 
 ## zimný semester
 
