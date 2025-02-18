@@ -11,8 +11,9 @@ rozvrh: [1mINF](https://candle.fmph.uniba.sk/kruzky/1mINF)
 predmety:
 | Názov predmetu | link interný odkaz | link na stránku predmetu |
 | -------------- | ------------- | ------------------------ |
-| Princípy tvorby softvéru (3) | [interný link](/minf/principy-tvorby-softveru-3) | [stránka predmetu](http://www.dcs.fmph.uniba.sk/~kosticova/202324/pts3.html) |
 | Magisterský projekt | [interný link](/minf/magistersky-projekt) | [stránka predmetu](http://www.dcs.fmph.uniba.sk/~bernat/mp/) |
+| Princípy tvorby softvéru (3) | [interný link](/minf/principy-tvorby-softveru-3) | [stránka predmetu](http://www.dcs.fmph.uniba.sk/~kosticova/202324/pts3.html) |
+| Tvorba internetových aplikácií | [interný link](/minf/tvorba-internetovych-aplikacii) | [stránka predmetu](https://micro.dcs.fmph.uniba.sk/dokuwiki/sk:dcs:tia:start) |
 
 ## zimný semester
 
