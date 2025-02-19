@@ -24,3 +24,22 @@ Kód pre MS-Teams: 1nqjd1x
 | 15.4 | 22.4 | beta verzia a feedback od spolužiakov |
 | 22.4 | 29.4 | práca na projekte, 2x týždenný report |
 |  6.5 | 13.5 | finálna verzie, prezentácia a feedback od spolužiakov |
+
+## Projekt
+
+### Skript na genererovanie reportov
+
+Vytvoril som jednoduchý interaktívny bash skript, ktorý vyplní základné údaje a zgeneruje všetky reporty.
+Mnoho vecí je tam duplicitných, tak som pre to vytvoril skript, plus má predvyplnené týždne a dni :)
+
+Tu stiahni:
+
+- [generate-from-templates.7z](/tvorba-internetovych-aplikacii/generate-from-templates.7z)
+- [generate-from-templates.xz](/tvorba-internetovych-aplikacii/generate-from-templates.xz) 
+
+Postup je jednoduchý:
+
+1. Rozbaľ archív
+2. Spusti skript `generate-from-templates`
+3. Vyplň svoje údaje
+4. Skopíruj si vygenerované .md súbory z priečinka `generated`
