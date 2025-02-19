@@ -11,9 +11,10 @@ rozvrh: [1mINF](https://candle.fmph.uniba.sk/kruzky/1mINF)
 predmety:
 | Názov predmetu | link interný odkaz | link na stránku predmetu |
 | -------------- | ------------- | ------------------------ |
-| Magisterský projekt | [interný link](/minf/magistersky-projekt) | [stránka predmetu](http://www.dcs.fmph.uniba.sk/~bernat/mp/) |
-| Princípy tvorby softvéru (3) | [interný link](/minf/principy-tvorby-softveru-3) | [stránka predmetu](http://www.dcs.fmph.uniba.sk/~kosticova/202324/pts3.html) |
-| Tvorba internetových aplikácií | [interný link](/minf/tvorba-internetovych-aplikacii) | [stránka predmetu](https://micro.dcs.fmph.uniba.sk/dokuwiki/sk:dcs:tia:start) |
+| Diplomový seminár (2) | [interný link](/2024-2025-leto/minf/diplomovy-seminar-2) | |
+| Magisterský projekt | [interný link](/2024-2025-leto/minf/magistersky-projekt) | [stránka predmetu](http://www.dcs.fmph.uniba.sk/~bernat/mp/) |
+| Princípy tvorby softvéru (3) | [interný link](/2024-2025-leto/minf/principy-tvorby-softveru-3) | [stránka predmetu](http://www.dcs.fmph.uniba.sk/~kosticova/202324/pts3.html) |
+| Tvorba internetových aplikácií | [interný link](/2024-2025-leto/minf/tvorba-internetovych-aplikacii) | [stránka predmetu](https://micro.dcs.fmph.uniba.sk/dokuwiki/sk:dcs:tia:start) |
 
 ## zimný semester
 
@@ -21,12 +22,12 @@ predmety:
 
 predmety:
 
-- [Diplomový seminár](/minf/diplomovy-seminar)
-- [Riadenie IT bezpečnosti](/minf/riadenie-it-bezpecnosti)
-- [Strojové učenie](/minf/strojove-ucenie)
-- [Teória informácie a teória kódovania (1)](/minf/teoria-informacie-a-kodovania-1)
-- [UNIX pre administrátorov](/minf/unix-pre-administratorov)
-- [Vybrané partie z dátových štruktúr](/minf/vybrane-partie-z-datovych-struktur)
+- [Diplomový seminár (1)](/2024-2025-zima/minf/diplomovy-seminar-1)
+- [Riadenie IT bezpečnosti](/2024-2025-zima/minf/riadenie-it-bezpecnosti)
+- [Strojové učenie](/2024-2025-zima/minf/strojove-ucenie)
+- [Teória informácie a teória kódovania (1)](/2024-2025-zima/minf/teoria-informacie-a-kodovania-1)
+- [UNIX pre administrátorov](/2024-2025-zima/minf/unix-pre-administratorov)
+- [Vybrané partie z dátových štruktúr](/2024-2025-zima/minf/vybrane-partie-z-datovych-struktur)
 
 ### učiteľstvo informatiky
 

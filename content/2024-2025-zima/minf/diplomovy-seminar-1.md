@@ -1,9 +1,11 @@
 +++
 layout = 'subject-info'
-title = 'Diplomovy seminár'
+title = 'Diplomový seminár (1)'
 +++
 
-Táto stránka bola vytovorená na dopyt [prof. RNDr. Branislav Rovan, PhD.](http://www.dcs.fmph.uniba.sk/~rovan/)
+Táto stránka bola vytvorená na dopyt [prof. RNDr. Branislav Rovan, PhD.](http://www.dcs.fmph.uniba.sk/~rovan/)
+
+Ďalší semester pokračuje na stránke [Diplomový seminár (2)](/2024-2025-leto/minf/diplomovy-seminar-2).
 
 ## Skúškové
 
