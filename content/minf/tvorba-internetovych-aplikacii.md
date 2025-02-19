@@ -35,7 +35,7 @@ Mnoho vecí je tam duplicitných, tak som pre to vytvoril skript, plus má predv
 Tu stiahni:
 
 - [generate-from-templates.7z](/tvorba-internetovych-aplikacii/generate-from-templates.7z)
-- [generate-from-templates.xz](/tvorba-internetovych-aplikacii/generate-from-templates.xz) 
+- [generate-from-templates.xz](/tvorba-internetovych-aplikacii/generate-from-templates.tar.xz) 
 
 Postup je jednoduchý:
 
