@@ -13,7 +13,7 @@ predmety:
 | -------------- | ------------- | ------------------------ |
 | Diplomový seminár (2) | [interný link](/2024-2025-leto/minf/diplomovy-seminar-2) | |
 | Magisterský projekt | [interný link](/2024-2025-leto/minf/magistersky-projekt) | [stránka predmetu](http://www.dcs.fmph.uniba.sk/~bernat/mp/) |
-| Princípy tvorby softvéru (3) | [interný link](/2024-2025-leto/minf/principy-tvorby-softveru-3) | [stránka predmetu](http://www.dcs.fmph.uniba.sk/~kosticova/202324/pts3.html) |
+| Princípy tvorby softvéru (3) | [interný link](/2024-2025-leto/minf/principy-tvorby-softveru-3) | [stránka predmetu](http://www.dcs.fmph.uniba.sk/~kosticova/pts3.html) |
 | Tvorba internetových aplikácií | [interný link](/2024-2025-leto/minf/tvorba-internetovych-aplikacii) | [stránka predmetu](https://micro.dcs.fmph.uniba.sk/dokuwiki/sk:dcs:tia:start) |
 
 ## zimný semester
