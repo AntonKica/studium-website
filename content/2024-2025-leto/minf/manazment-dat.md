@@ -4,7 +4,7 @@ title = 'Manažment dát'
 
 [params.links.fmfi]
 name = 'Stránka predmetu'
-url = 'http://www.dcs.fmph.uniba.sk/~kosticova/pts3.html'
+url = 'https://compbio.fmph.uniba.sk/vyuka/mad/index.php/Materials'
 +++
 
 Pripojenie sa na Linux:
