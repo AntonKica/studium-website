@@ -25,6 +25,13 @@ Kód pre MS-Teams: 1nqjd1x
 | 22.4 | 29.4 | práca na projekte, 2x týždenný report |
 |  6.5 | 13.5 | finálna verzie, prezentácia a feedback od spolužiakov |
 
+## Zoznam projektov
+
+| študent | názov projektu | github | hosting |
+| - | - | - | - |
+| Kica Anton | Strážca kvality domu  | <https://github.com/AntonKica/strazkvaldo> | - |
+| Krošlák Maximilián Martin | Systém na hodnotenie reštauracií | <https://github.com/Maax02/System-na-hodnotenie-restauracii> | - |
+
 ## Projekt
 
 ### Skript na genererovanie reportov
@@ -43,3 +50,4 @@ Postup je jednoduchý:
 2. Spusti skript `generate-from-templates`
 3. Vyplň svoje údaje
 4. Skopíruj si vygenerované .md súbory z priečinka `generated`
+
