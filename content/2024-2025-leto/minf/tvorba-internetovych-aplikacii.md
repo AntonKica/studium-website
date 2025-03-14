@@ -29,8 +29,10 @@ Kód pre MS-Teams: 1nqjd1x
 
 | študent | názov projektu | github | hosting |
 | - | - | - | - |
-| Kica Anton | Strážca kvality domu  | <https://github.com/AntonKica/strazkvaldo> | - |
+| Horňáček Lukáš | Is it Poison? | <https://github.com/lukas-hornacek/isitpoison> | - |
+| Kica Anton | Strážca kvality domu | <https://github.com/AntonKica/strazkvaldo> | - |
 | Krošlák Maximilián Martin | Systém na hodnotenie reštauracií | <https://github.com/Maax02/System-na-hodnotenie-restauracii> | - |
+| Michalovič Marek _Čivo_ | Kyberkuchárka | <https://github.com/cxivo/kyberkucharka> | - |
 
 ## Projekt
 
