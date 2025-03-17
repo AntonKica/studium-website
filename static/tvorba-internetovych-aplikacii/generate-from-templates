@@ -1,0 +1,53 @@
+#!/bin/bash
+
+REPORT_BETA_TEMPLATE_FILE='report_beta_template.md'
+REPORT_FINAL_TEMPLATE_FILE='report_final_template.md'
+REPORT_WEEK_TEMPLATE_FILE='report_week_template.md'
+
+FIRST_NAME_LAST_NAME_TEMPLATE='<first_name_last_name>'
+PROJECT_NAME_TEMPLATE='<project_name>'
+REPO_LINK_TEMPLATE='<repo_link>'
+HOSTING_LINK_TEMPLATE='<hosting_link>'
+REPORT_WEEK_TEMPLATE='<report_week>'
+REPORT_DATE_FROM_TEMPLATE='<report_date_from>'
+REPORT_DATE_TO_TEMPLATE='<report_date_to>'
+
+read -r -p 'Meno a priezvisko: ' FIRST_NAME_LAST_NAME
+read -r -p 'Názov projektu: ' PROJECT_NAME
+read -r -p 'Link na repozitár: ' REPO_LINK
+read -r -p 'Link na verejnú inštanciu projektu (môže byť zatiaľ prázdne): ' HOSTING_LINK
+REPORT_DATE_FROM=''
+REPORT_DATE_TO=''
+
+
+function resolve_template_file {
+  TEMPLATE_FILE=$1
+  OUTPUT_FILE=$2
+  
+  sed \
+    -e "s|$FIRST_NAME_LAST_NAME_TEMPLATE|$FIRST_NAME_LAST_NAME|g" \
+    -e "s|$PROJECT_NAME_TEMPLATE|$PROJECT_NAME|g" \
+    -e "s|$REPO_LINK_TEMPLATE|$REPO_LINK|g" \
+    -e "s|$HOSTING_LINK_TEMPLATE|$HOSTING_LINK|g" \
+    -e "s|$REPORT_WEEK_TEMPLATE|$REPORT_WEEK|g" \
+    -e "s|$REPORT_DATE_FROM_TEMPLATE|$REPORT_DATE_FROM|g" \
+    -e "s|$REPORT_DATE_TO_TEMPLATE|$REPORT_DATE_TO|g" \
+    $TEMPLATE_FILE > $OUTPUT_FILE
+}
+
+OUT_DIR=generated
+mkdir -p $OUT_DIR
+resolve_template_file report_beta_template.md $OUT_DIR/report_beta.md
+resolve_template_file report_final_template.md $OUT_DIR/report_final.md
+
+SEMESTER_START_DATE='2025-2-17'
+
+REPORT_WEEK_FILE='report_week.md'
+for REPORT_WEEK in {4..13}; do
+  # REPORT_WEEK is one off
+  REPORT_DATE_FROM=$(date +%d.%m. -d "$SEMESTER_START_DATE + $((REPORT_WEEK - 1)) week")
+  REPORT_DATE_TO=$(date +%d.%m.%Y -d "$SEMESTER_START_DATE + $((REPORT_WEEK - 1)) week + 6 day")
+
+  OUTPUT_FILE_NAME=$(printf "$OUT_DIR/report_week%d.md" $REPORT_WEEK)
+  resolve_template_file report_week_template.md $OUTPUT_FILE_NAME
+done

@@ -18,12 +18,17 @@ Kód pre MS-Teams: 1nqjd1x
 
 |  od  |  do  | fáza |
 | ---- | ---- | ----------------------------------- |
-| 18.2 | 25.2 | vybranie témy projektu |
-|  4.3 | 11.3 | špecifikácia projektu |
-| 11.3 | 15.4 | práca na projekte, 6x týždenný report |
-| 15.4 | 22.4 | beta verzia a feedback od spolužiakov |
-| 22.4 | 29.4 | práca na projekte, 2x týždenný report |
-|  6.5 | 13.5 | finálna verzie, prezentácia a feedback od spolužiakov |
+| 17.2 | 23.2 | vybranie témy projektu |
+| 24.2 | 16.3 | špecifikácia projektu |
+| 17.3 | 13.4 | práca na projekte, 6x týždenný report |
+| 14.4 | 20.4 | beta verzia a feedback od spolužiakov |
+| 21.4 | 28.4 | práca na projekte, 2x týždenný report |
+| 29.4 | 4.5 | finálna verzie, prezentácia a feedback od spolužiakov |
+
+
+
+
+
 
 ## Zoznam projektov
 
@@ -43,13 +48,11 @@ Mnoho vecí je tam duplicitných, tak som pre to vytvoril skript, plus má predv
 
 Tu stiahni:
 
-- [generate-from-templates.7z](/tvorba-internetovych-aplikacii/generate-from-templates.7z)
-- [generate-from-templates.xz](/tvorba-internetovych-aplikacii/generate-from-templates.tar.xz) 
+- [generate-from-templates](/tvorba-internetovych-aplikacii/generate-from-templates)
 
 Postup je jednoduchý:
 
-1. Rozbaľ archív
-2. Spusti skript `generate-from-templates`
-3. Vyplň svoje údaje
-4. Skopíruj si vygenerované .md súbory z priečinka `generated`
+1. Spusti skript `generate-from-templates`
+2. Vyplň svoje údaje
+3. Skopíruj si vygenerované .md súbory z priečinka `generated`
 
