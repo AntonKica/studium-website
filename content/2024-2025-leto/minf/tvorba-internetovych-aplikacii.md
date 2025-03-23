@@ -25,11 +25,6 @@ Kód pre MS-Teams: 1nqjd1x
 | 21.4 | 28.4 | práca na projekte, 2x týždenný report |
 | 29.4 | 4.5 | finálna verzie, prezentácia a feedback od spolužiakov |
 
-
-
-
-
-
 ## Zoznam projektov
 
 | študent | názov projektu | github | hosting |
@@ -55,4 +50,3 @@ Postup je jednoduchý:
 1. Spusti skript `generate-from-templates`
 2. Vyplň svoje údaje
 3. Skopíruj si vygenerované .md súbory z priečinka `generated`
-
