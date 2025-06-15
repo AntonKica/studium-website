@@ -3,9 +3,19 @@ title = 'Diplomová práca'
 date = 2024-10-06
 +++
 
-## Písomná praca
+## Diplomový seminár (2)
 
-- [text práce k Diplomový seminár (1)](/diplomova-praca/diplomova-praca-v0.1.pdf)
+Poznámky k preštudovanej literatúre:
+
+- [CyBOK - Risk Management & Governance Knowledge Area](</diplomova-praca/CyBOK - Risk Management & Governance Knowledge Area poznamky.pdf>)
+- [NIST Special Publication 800-39](</diplomova-praca/NIST Special Publication 800-39 poznamky.pdf>)
+- [NIST Special Publication 800-53](</diplomova-praca/NIST Special Publication 800-53 poznamky.pdf>)
+
+## Diplomový seminár (1)
+
+- [prvotný nástrel písomnej prace](/diplomova-praca/diplomova-praca-v0.1.pdf)
+
+
 
 ## Hrubá špecifikácia systému
 
