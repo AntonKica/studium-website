@@ -12,7 +12,7 @@ predmety:
 | Diplomový seminár (3) | [interný link](/2025-2026-zima/diplomovy-seminar-3) | |
 | Kompilátory | [interný link](/2025-2026-zima/kompilatory) | [stránka predmetu](https://micro.dcs.fmph.uniba.sk/dokuwiki/sk:dcs:co:start) |
 | Pokročilé spracovanie obrazu | [interný link](/2025-2026-zima/pokrocile-spracovanie-obrazu) | [stránka predmetu](http://sccg.sk/~cernekova/PSO2015.html) |
-| Počítačové siete (2) | [interný link](/2025-2026-zima/pocitacove-siete-2) | |
+| Počítačové siete (2) | [interný link](/2025-2026-zima/pocitacove-siete-2) | [stránka predmetu](http://www.dcs.fmph.uniba.sk/siete2/) |
 
 ## letný semester 2024-2025
 
