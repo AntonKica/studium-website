@@ -2,7 +2,19 @@
 
 Chceš sám pridávať veci na túto stránku? ___Supér!___ Napíš mi <kica6@uniba.sk>.
 
-## letný semester
+rozvrh: [2mINF](https://candle.fmph.uniba.sk/kruzky/2mINF), [môj](https://candle.fmph.uniba.sk/rozvrh/skica)
+
+## zimný semester 2025-2026
+
+predmety:
+| Názov predmetu | link interný odkaz | link na stránku predmetu |
+| -------------- | ------------- | ------------------------ |
+| Diplomový seminár (3) | [interný link](/2025-2026-zima/diplomovy-seminar-3) | |
+| Kompilátory | [interný link](/2025-2026-zima/kompilatory) | [stránka predmetu](https://micro.dcs.fmph.uniba.sk/dokuwiki/sk:dcs:co:start) |
+| Pokročilé spracovanie obrazu | [interný link](/2025-2026-zima/pokrocile-spracovanie-obrazu) | [stránka predmetu](http://sccg.sk/~cernekova/PSO2015.html) |
+| Počítačové siete (2) | [interný link](/2025-2026-zima/pocitacove-siete-2) | |
+
+## letný semester 2024-2025
 
 rozvrh: [1mINF](https://candle.fmph.uniba.sk/kruzky/1mINF)
 
@@ -17,7 +29,7 @@ predmety:
 | Princípy tvorby softvéru (3) | [interný link](/2024-2025-leto/minf/principy-tvorby-softveru-3) | [stránka predmetu](http://www.dcs.fmph.uniba.sk/~kosticova/pts3.html) |
 | Tvorba internetových aplikácií | [interný link](/2024-2025-leto/minf/tvorba-internetovych-aplikacii) | [stránka predmetu](https://micro.dcs.fmph.uniba.sk/dokuwiki/sk:dcs:tia:start) |
 
-## zimný semester
+## zimný semester 2024-2025
 
 ### informatika
 
