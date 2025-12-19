@@ -5,3 +5,20 @@ title = 'Pokročilé spracovanie obrazu'
 
 - [prednášky](http://sccg.sk/~cernekova/PSO2015.html)
 - [cvičenia](https://github.com/kocurvik/edu/tree/master/PSO)
+
+
+## Cvičenia
+
+| názov cvičenia | google collab |
+|-|-|
+|1. lab - Google Colab, NumPy and OpenCV basics|[PSO_cv01_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/hw2025/PSO_cv01_en_solution.ipynb)
+|2. Lab - Notebook widgets|[PSO_cv02_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/hw2025/PSO_cv02_en_solution.ipynb)
+|3. Lab - Color Spaces|[PSO_cv03_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/hw2025/PSO_cv03_en_solution.ipynb)
+|Lab 4 - Camera Calibration|[PSO_cv04_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/hw2025/PSO_cv04_en_solution.ipynb)
+|Lab 5 - Intensity Histogram and Intensity Modification|[PSO_cv05_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/hw2025/PSO_cv05_en_solution.ipynb)
+|Lab 6 - Edge Detection and Image Sharpening|[PSO_cv06_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/hw2025/PSO_cv06_en_solution.ipynb)
+|7. lab - Morphological operations|[PSO_cv07_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/hw2025/PSO_cv07_en_solution.ipynb)
+|8. lab - Morphological Operations II|[PSO_cv08_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/hw2025/PSO_cv08_en_solution.ipynb)
+|9. lab - Fourier transform|[PSO_cv09_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/hw2025/PSO_cv09_en_solution.ipynb)
+|10. lab - Segmentation|[PSO_cv10_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/hw2025/PSO_cv19_en_solution.ipynb)
+|11. lab - Image transformations|[PSO_cv11_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/hw2025/PSO_cv11_en_solution.ipynb)
