@@ -20,5 +20,5 @@ title = 'Pokročilé spracovanie obrazu'
 |7. lab - Morphological operations|[PSO_cv07_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/solutions/PSO_cv07_en_solution.ipynb)
 |8. lab - Morphological Operations II|[PSO_cv08_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/solutions/PSO_cv08_en_solution.ipynb)
 |9. lab - Fourier transform|[PSO_cv09_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/solutions/PSO_cv09_en_solution.ipynb)
-|10. lab - Segmentation|[PSO_cv10_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/solutions/PSO_cv19_en_solution.ipynb)
+|10. lab - Segmentation|[PSO_cv10_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/solutions/PSO_cv10_en_solution.ipynb)
 |11. lab - Image transformations|[PSO_cv11_en_solution.ipynb](https://colab.research.google.com/github/kocurvik/edu/blob/master/PSO/notebooks/solutions/PSO_cv11_en_solution.ipynb)
